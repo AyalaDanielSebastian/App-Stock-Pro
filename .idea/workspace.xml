@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef5ad8b7-58de-46f7-8862-1f9cdc73ef5b" name="Changes" comment="&quot;Stock para productos&quot;">
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/stockpro/ui/components/BarraStockPro.kt" afterDir="false" />
+    <list default="true" id="ef5ad8b7-58de-46f7-8862-1f9cdc73ef5b" name="Changes" comment="&quot;Barra para stock&quot;">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/stockpro/ui/screens/PantallaCatalogo.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/stockpro/ui/screens/PantallaEdicionStock.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/stockpro/ui/screens/PantallaIngreso.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/stockpro/ui/screens/PantallaReporte.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1781658173913</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="&quot;Barra para stock&quot;">
+      <option name="closed" value="true" />
+      <created>1781658238182</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1781658238182</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +202,7 @@
     <MESSAGE value="&quot;Creacion modelo con sus entidades para la app&quot;" />
     <MESSAGE value="&quot;Creacion de rutas para navegacion&quot;" />
     <MESSAGE value="&quot;Stock para productos&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Stock para productos&quot;" />
+    <MESSAGE value="&quot;Barra para stock&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Barra para stock&quot;" />
   </component>
 </project>
